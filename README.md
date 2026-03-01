@@ -1,27 +1,118 @@
-# 💫 About Me:
-🔭 I’m currently looking for job<br>👯 I’m Certified ethical hacker<br>🤝 I’m OSCP Holder<br>🌱 PYTHON, C, GO<br>ACTIVE DIRECTORY<br>LINUX<br>WEB SECURITY<br>VAPT<br>
+# 👋 Hi, I'm Lokesh Bhati
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-bhati-179731231) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@lokeshbhati0032)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lokeshbhati32t@gmail.com) 
-
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lokesh0032t&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lokesh0032t&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh0032t&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lokesh0032t&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lokesh0032t&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🔐 Offensive Security | Red Team | OSCP | OSCP+  
+📍 Rajasthan, India  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lokesh0032t&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+Offensive Security-focused Cybersecurity Professional with strong hands-on experience in:
+
+- Penetration Testing (Network, Web, Active Directory)
+- Web Application Security (OWASP Top 10)
+- Privilege Escalation (Linux & Windows)
+- Active Directory Attacks (Kerberoasting, Pass-the-Hash, ACL Abuse)
+- Professional Security Reporting
+
+OSCP & OSCP+ certified with practical experience in enterprise-style lab environments simulating real-world networks.
+
+I specialize in identifying vulnerabilities, exploiting systems, and producing professional-grade penetration testing reports.
+
+---
+
+## 🛡️ Certifications
+
+- 🏆 Offensive Security Certified Professional (OSCP)
+- 🏆 Offensive Security Certified Professional Plus (OSCP+)
+- 🏆 Certified Ethical Hacker (CEH Practical, CEH ANSI, CEH Master)
+
+---
+
+## 💻 Technical Skills
+
+### 🔎 Penetration Testing
+- Network Penetration Testing
+- Web Application Testing (OWASP Top 10)
+- Active Directory Attacks
+- Vulnerability Assessment & Reporting
+
+### 🧠 Active Directory Techniques
+- Kerberoasting
+- Pass-the-Hash
+- ACL Abuse
+- Privilege Escalation
+- Lateral Movement
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BloodHound-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrackMapExec-grey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Impacket-lightgrey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali_Linux-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge"/>
+</p>
+
+---
+
+## 👨‍💻 Programming & Scripting
+
+- Python
+- C
+- Bash
+- PHP
+- JavaScript
+- HTML
+
+---
+
+## 📂 Featured Project
+
+### 🔎 SubDarshan – Python Based Subdomain Finder  
+🔗 https://github.com/lokesh0032t/SubDarshan  
+
+- Developed a Python-based tool to enumerate subdomains using wordlists and DNS resolution
+- Designed for reconnaissance during web application security assessments
+- Improved efficiency during information gathering phase
+
+---
+
+## 💼 Experience
+
+### 🏢 Tata Cybersecurity – Security Analyst Job Simulation (Forage) – August 2024
+- Simulated IAM security assessment in enterprise environment
+- Identified access control risks and security misconfigurations
+- Produced business-aligned security documentation
+
+### 🔐 Penetration Testing Trainee – Offensive Security (OSCP Labs)
+- Conducted full-scope penetration tests in enterprise-style lab networks
+- Exploited Windows & Linux systems
+- Performed Active Directory attacks and privilege escalation
+- Produced professional exam-style penetration testing reports
+
+---
+
+## 🎓 Education
+
+- Bachelor of Commerce – JNVU Jodhpur, Rajasthan
+- 12th Commerce – Govt Sr. Sec School Raipur, Rajasthan
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/lokesh-bhati-179731231/
+- 💻 GitHub: https://github.com/lokesh0032t
+- 📧 Email: lokeshbhati0032@gmail.com
+
+---
+
+## ⚡ Motto
+
+> "Break it. Understand it. Secure it."
